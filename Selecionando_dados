@@ -1,0 +1,2 @@
+# Aqui estamos selecionando todos os dados da tabela funcionarios
+select * from funcionarios;
