@@ -1,0 +1,3 @@
+#Selecione os dados da tabela serviços
+USE empresa;
+SELECT * FROM servicos;
