@@ -1,0 +1,2 @@
+#aqui estamos apagando um banco de dados;
+drop database xyz;
