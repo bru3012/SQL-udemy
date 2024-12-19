@@ -1,0 +1,4 @@
+#crie um banco de dados, verifique se o banco foi criado, remova o banco;
+create database exercicio_3;
+show database;
+drop database exercicio_3;
