@@ -1,0 +1,3 @@
+#inserindo valores numericos na tabela servidores e mostrando
+insert into servidores(nome,espaço_disco,ligado) value("servidor 2",123456,0);
+SELECT * FROM servidores;
