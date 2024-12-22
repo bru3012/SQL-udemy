@@ -1,0 +1,2 @@
+#Inserindo dados na tabelas
+Insert into produtos(nome,sku,informacoes) values("palysatation 5","PS5","É um video game de ultima geração");
