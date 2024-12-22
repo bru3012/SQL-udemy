@@ -1,0 +1,2 @@
+#criando tabelas e colunas com dados de texto
+create table cadastro(nome VARCHAR(100),numero CHAR(11),sobrenome MEDIUMTEXT);
