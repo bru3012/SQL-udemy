@@ -1,0 +1,2 @@
+#Para remover uma tabela usamos o comando DROP TABLE;
+DROP TABLE pessoas;
