@@ -1,0 +1,4 @@
+#adicione uma coluna e adicione dados
+alter table funcionarios add column cpf char(11);
+insert into funcionarios(nome,profissao,cpf) values("bruno","entalhador","12345678901");
+select * from funcionarios;
