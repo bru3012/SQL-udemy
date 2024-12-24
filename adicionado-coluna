@@ -1,0 +1,3 @@
+# para adicionar uma coluna usamos:
+#  ALTER TABLE <tabela> ADD COLUMN<nome><tipo;
+ALTER TABLE funcionarios ADD COLUMN profissao varchar(100);
