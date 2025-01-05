@@ -1,0 +1,3 @@
+alter table funcionarios add column cpf char(11);
+insert into funcionarios(cpf) values("9934535555");
+select * from funcionarios;
