@@ -1,0 +1,3 @@
+#REMOVER A COLUNA CPF DO EXERCICIO ANTERIOR;
+alter table funcionarios drop column cpf;
+select * from funcionarios;
